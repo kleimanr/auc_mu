@@ -9,8 +9,8 @@ Performance Metric for Multi-Class Machine Learning Models``, Proceedings of the
 
 __author__ = "Ross Kleiman"
 __copyright__ = "Copyright 2019"
-__credits__ = ["Rob Knight"]
-__license__ = "GPL"
+__credits__ = ["Ross Kleiman"]
+__license__ = "MIT"
 __version__ = "1.0"
 __maintainer__ = "Ross Kleiman"
 __email__ = "rkleiman@cs.wisc.edu"
